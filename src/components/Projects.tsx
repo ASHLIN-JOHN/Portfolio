@@ -9,7 +9,6 @@ const projects = [
     image: 'https://img.freepik.com/free-photo/ai-chip-artificial-intelligence-future-technology-innovation_53876-129780.jpg?t=st=1741452108~exp=1741455708~hmac=c908c2cdb09f3195766cbc5f379fa62dd917ffa9baa7ff4e8b823535a2fba78f&w=900',
     technologies: ['QtCreator', 'Python', 'Adobe Photoshop'],
     githubUrl: 'https://github.com/ASHLIN-JOHN/NARTUO-AI',
-    liveUrl: 'https://example.com',
     longDescription: 'Naruto AI is designed to provide intelligent automation, natural language processing, and smart decision-making capabilities. It can assist users with various tasks such as answering queries, executing commands, providing recommendations, and integrating with different platforms for enhanced productivity.',
     features: [
       'Uses AI algorithms for smart decision-making and data analysis',
@@ -32,7 +31,6 @@ const projects = [
     image: 'https://img.freepik.com/premium-photo/3d-face-recognition-illustration-concept-facial-recognition-face-id-system-biometric-identification-face-scan-system-cyber-security-concept-modern-vector-3d-style_839035-1807313.jpg?w=900',
     technologies: ['Python', 'MySql', 'Microsoft Excel'],
     githubUrl: 'https://github.com/ASHLIN-JOHN/SMART-ATTENDANCE-SYSTEM',
-    liveUrl: 'https://example.com',
     longDescription: 'The Smart Attendance System uses face recognition to automate attendance tracking, ' +
         'reducing manual effort and errors. It securely stores records in a database, enabling real-time monitoring and easy access for administrators.',
     features: [
@@ -56,7 +54,6 @@ const projects = [
     image: 'https://img.freepik.com/premium-photo/abstract-colored-pie-chart-3d-rendering_808337-14788.jpg?ga=GA1.1.1205572316.1741452336&semt=ais_hybrid',
     technologies: ['Python', 'Json'],
     githubUrl: 'https://github.com/ASHLIN-JOHN/DASHBOARD',
-    liveUrl: 'https://example.com',
     longDescription: 'The graphs illustrate changes in price distribution over time, highlighting significant increases, decreases, and stable trends. The bar chart visually represents these differences, with green indicating price hikes and red showing reductions.',
     features: [
       'Visual comparison of price distribution using pie charts',
