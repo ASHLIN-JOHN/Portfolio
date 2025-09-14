@@ -9,7 +9,7 @@ const About = () => {
           <div className="relative group">
             <div className="overflow-hidden rounded-2xl shadow-xl transform group-hover:scale-[1.02] transition-transform duration-300">
               <img
-                src="ashlin.jpg"
+                src="https://instagram.fmaa6-1.fna.fbcdn.net/v/t51.2885-19/476384782_2259560287763202_9032595912328821151_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=instagram.fmaa6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QG0dTegWlM8601sQ-K9JYjqFz9yjtyRth8Typ8KI9eOqqukZwIeHo43OsJnvPZ0udw&_nc_ohc=TKUGrjsaswUQ7kNvwFuWKNg&_nc_gid=gPdiPqQP8BlKwJdI10HJ4A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfZECzGFHZ4u_O_Jd4ctJbqgyvknpZweUvOOGoZUw1WbVQ&oe=68CCDDBC&_nc_sid=7a9f4b"
                 alt="Your Name"
                 className="w-full h-[600px] object-cover"
               />
